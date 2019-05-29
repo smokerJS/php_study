@@ -7,8 +7,11 @@
         border-collapse: collapse;
       }
       th {
-        width: 200px;
+        width: 250px;
         padding: 10px 0;
+      }
+      td {
+        padding: 4px;
       }
     </style>
   ";
