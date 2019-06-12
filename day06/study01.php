@@ -1,4 +1,6 @@
 <?php
+// insert
+
 $conn = mysqli_connect("127.0.0.1:4000", "root", "root", "php");
 // 호스트
 // 계정명
