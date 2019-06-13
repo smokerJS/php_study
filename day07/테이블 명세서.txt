@@ -1,0 +1,5 @@
+no int(11) pk ai
+writer varchar(45) nn
+title varchar(45) nn
+content varchar(45) nn
+created_at datetime nn default now()
