@@ -67,6 +67,7 @@ class Login extends React.Component {
             }
           <br/>
           <button onClick={()=>{this.dataCheckHandler()}}>로그인</button>
+          <br/>
           <a href="./index.php">홈으로 돌아가기</a>
         </section>
       )
